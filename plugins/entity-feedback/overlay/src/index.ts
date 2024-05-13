@@ -1,2 +1,3 @@
 export * from '@backstage/plugin-entity-feedback';
-export {CustomLikeDislikeCard} from './custom';
+
+// export {CustomLikeDislikeCard} from './custom';
