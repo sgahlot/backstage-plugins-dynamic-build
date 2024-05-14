@@ -1,7 +1,7 @@
 {
-  "name": "backstage.plugin-entity-feedback",
+  "name": "backstage.plugin-entity-feedback-local",
   "exposedModules": {
     "PluginRoot": "./src/index.ts",
-    "CustomRoot": "./src/custom.tsx"
+    "CustomRoot": "./src/custom.ts"
   }
 }
