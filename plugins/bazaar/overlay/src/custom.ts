@@ -1,3 +1,4 @@
+import { Entity } from '@backstage/catalog-model';
 
 /**
  * Bazaar plugin annotation.
