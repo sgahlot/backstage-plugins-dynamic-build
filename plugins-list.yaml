@@ -1,2 +1,4 @@
-plugins/entity-feedback-backend:
-plugins/entity-feedback:
+plugins/bazaar-backend:
+plugins/bazaar:
+# plugins/entity-feedback-backend:
+# plugins/entity-feedback:
