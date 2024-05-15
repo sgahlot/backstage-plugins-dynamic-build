@@ -17,7 +17,7 @@ const getBazaarAnnotation = (entity: Entity) =>
  * Utility function to determine if the given entity has Bazaar projects.
  * @public
  */
-export const isBazaarProjectAvailable = (entity: Entity) 
+export const isBazaarProjectAvailable = (entity: Entity) =>
   Boolean(getBazaarAnnotation(entity));
 
 export * from '@backstage/plugin-bazaar';
